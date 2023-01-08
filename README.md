@@ -1,3 +1,3 @@
-### cpplant
+# cpplant
 
-WIP: C++ Library for Autonomous Navigation and Tracking
+(WIP) C++ Library for Autonomous Navigation and Tracking
